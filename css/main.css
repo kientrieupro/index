@@ -1,0 +1,564 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face 
+{
+	font-family: myfont;
+	src: url(../Font/TitanOne-Regular.ttf);
+	
+}
+.wow:first-child {
+      visibility: hidden;
+    }
+
+
+
+.container
+{
+ 	width: 1920px;
+	height: 7530px;
+	background-color: black;
+	
+	
+	
+	
+}
+.Menu
+{
+ 	width: 1920px;
+	height: 80px;
+	background-color: black;
+	
+	
+	
+	
+}
+.logo
+{
+ 	width: 235px;
+	height: 80px;
+	background-color: black;
+	float: left;
+	
+	
+	
+	
+}
+.menu1
+{
+ 	width: 1685px;
+	height: 80px;
+	background-color: black;
+	float: right;
+	
+	
+	
+	
+}
+ul li
+{
+	float:left;
+	padding: 30px 30px 0px 25px;
+	font-family: myfont;
+	
+}
+ul li a:hover
+{
+	text-decoration: underline;
+	color: gold;
+	
+	
+}
+ul li a
+{
+	color: aliceblue;
+	
+	
+}
+
+
+
+.slider
+{
+ 	width: 1920px;
+	height: 800px;
+	background-color: black;
+	
+	
+	
+	
+}
+
+
+
+.luffy
+{
+ 	width: 1920px;
+	height: 750px;
+	background-color: black;
+	
+	
+	
+	
+}
+
+
+
+.zoro
+{
+ 	width: 1920px;
+	height: 250px;
+	background-color:black;
+	font-family: myfont;
+	text-align: center;
+	font-size: 50px;
+	color: ghostwhite;
+	
+	
+	
+	
+}
+.text
+{
+	width: 1920px;
+	height: 250px;
+	font-family:  myfont;
+	text-align: center;
+	font-size: 15px;
+	padding: 25px;
+	color: dimgray;
+	
+	
+}
+.sanji
+{
+ 	width: 1920px;
+	height: 1250px;
+	background-color: black;
+	
+	
+	
+	
+}
+.usopp
+{
+ 	width: 1920px;
+	height: 360px;
+	background-color: black;
+	font-family:  myfont;
+	text-align: center;
+	color: ghostwhite;
+	font-size: 50px;
+	
+	
+	
+	
+}
+.sanji1
+{
+ 	width: 545px;
+	height: 305px;
+	background-color: darkgray;
+	float: right;
+	margin: 30px 200px 30px 20px;
+	opacity: 0.5;
+	
+	
+}
+.sanji1:hover
+{
+ 	width: 545px;
+	height: 305px;
+	background-color:darkgray;
+	float: right;
+	margin: 30px 200px 30px 20px;
+	opacity: 1;
+	
+	
+}
+.nami
+{
+ 	width: 1920px;
+	height: 540px;
+	background-color: black;
+	
+	
+	
+	
+}
+.nami1 img
+{
+ 	width: 350px;
+	height: 220px;
+	float: right;
+	margin: 10px 200px 10px 60px;
+	transition:all 0.3s ease;
+	background-color: darkgrey;
+	
+	
+	
+	
+	
+	
+	
+}
+.nami1 img:hover
+{
+	width:350px;
+	height:220px;
+	background: #FCFF8D;
+	opacity: 0.5;
+	transform: scale(0.9);
+}
+
+.chopper
+{
+ 	width: 1920px;
+	height: 360px;
+	background-color: black;
+	font-family:  myfont;
+	text-align: center;
+	color: ghostwhite;
+	font-size: 50px;
+	
+	
+	
+	
+}
+.brook
+{
+ 	width: 1920px;
+	height: 540px;
+	background-color: black;
+	margin-left: 200px;
+	
+	
+	
+	
+}
+.robin
+{
+ 	width: 1920px;
+	height: 540px;
+	background-color: black;
+	font-family:  myfont;
+	text-align: center;
+	color: ghostwhite;
+	font-size: 50px;
+	
+	
+	
+	
+}
+.franky
+{
+	width: 1920px;
+	height: 940px;
+	background-color: black;
+	
+	
+}
+.franky1
+{
+	width: 1920px;
+	height: 290px;
+}
+.franky1a
+{ 
+	width: 360px;
+	height: 290px;
+	float: left;
+	margin-left: 400px;
+
+
+
+
+}
+.franky1b
+{ 
+	width: 740px;
+	height: 290px;
+	float: right;
+	margin-right: 400px;
+
+
+
+
+}
+.franky1c
+{ 
+	width: 360px;
+	height: 290px;
+	float: left;
+	margin: 0px 10px 0px 20px;
+
+
+
+
+}
+.franky1d
+{ 
+	width: 360px;
+	height: 290px;
+	float: right;
+	margin-right: 400px;
+
+
+
+
+}
+.franky1e
+{ 
+	width: 740px;
+	height: 290px;
+	float: right;
+	margin-right: 400px;
+
+
+
+
+}
+.franky1f
+{ 
+	width: 360px;
+	height: 290px;
+	float: left;
+	margin-left: 400px;
+
+
+
+
+}
+.jinbe
+{ 
+	width: 1920px;
+	height: 650px;
+	background-color: black;
+
+
+
+
+}
+
+.jinbe1
+{ 
+	width: 800px;
+	height: 650px;
+	background-color: black;
+	float: left;
+	margin-left: 40px;
+
+
+
+
+}
+.jinbe2
+{ 
+	width: 800px;
+	height: 650px;
+	background-color: ivory;
+	float: right;
+	margin-right: 40px;
+
+
+
+
+}
+.jinbe3
+{ 
+	width: 1920px;
+	height: 440px;
+	background-color:black;
+	
+	
+
+
+
+
+}
+.form-style-2{
+	max-width: 500px;
+	padding: 20px 12px 10px 20px;
+	font: 13px Arial, Helvetica, sans-serif;
+}
+.form-style-2-heading{
+	font-weight: bold;
+	font-style: italic;
+	border-bottom: 2px solid #ddd;
+	margin-bottom: 20px;
+	font-size: 15px;
+	padding-bottom: 3px;
+}
+.form-style-2 label{
+	display: block;
+	margin: 0px 0px 15px 0px;
+}
+.form-style-2 label > span{
+	width: 100px;
+	font-weight: bold;
+	float: left;
+	padding-top: 8px;
+	padding-right: 5px;
+}
+.form-style-2 span.required{
+	color:red;
+}
+.form-style-2 .tel-number-field{
+	width: 40px;
+	text-align: center;
+}
+.form-style-2 input.input-field, .form-style-2 .select-field{
+	width: 48%;	
+}
+.form-style-2 input.input-field, 
+.form-style-2 .tel-number-field, 
+.form-style-2 .textarea-field, 
+ .form-style-2 .select-field{
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	border: 1px solid #C2C2C2;
+	box-shadow: 1px 1px 4px #EBEBEB;
+	-moz-box-shadow: 1px 1px 4px #EBEBEB;
+	-webkit-box-shadow: 1px 1px 4px #EBEBEB;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	padding: 7px;
+	outline: none;
+}
+.form-style-2 .input-field:focus, 
+.form-style-2 .tel-number-field:focus, 
+.form-style-2 .textarea-field:focus,  
+.form-style-2 .select-field:focus{
+	border: 1px solid #0C0;
+}
+.form-style-2 .textarea-field{
+	height:100px;
+	width: 55%;
+}
+.form-style-2 input[type=submit],
+.form-style-2 input[type=button]{
+	border: none;
+	padding: 8px 15px 8px 15px;
+	background: #FF8500;
+	color: #fff;
+	box-shadow: 1px 1px 4px #DADADA;
+	-moz-box-shadow: 1px 1px 4px #DADADA;
+	-webkit-box-shadow: 1px 1px 4px #DADADA;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+}
+.form-style-2 input[type=submit]:hover,
+.form-style-2 input[type=button]:hover{
+	background: #EA7B00;
+	color: #fff;
+}
+
+
+
+
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+
+
+
+
+
+
